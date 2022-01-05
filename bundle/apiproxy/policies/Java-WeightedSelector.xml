@@ -3,5 +3,5 @@
     <Property name="weights">0, 1, 1, 2, 3, 5, 8, 13, 21, 34</Property>
   </Properties>
   <ClassName>com.google.apigee.callout.WeightedSelectorCallout</ClassName>
-  <ResourceURL>java://edge-custom-weighted-selector-1.0.1.jar</ResourceURL>
+  <ResourceURL>java://apigee-custom-weighted-selector-20220104.jar</ResourceURL>
 </JavaCallout>
